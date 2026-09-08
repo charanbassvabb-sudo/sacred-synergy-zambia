@@ -1,0 +1,9 @@
+# Editor
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Raw source photos (already copied into assets/img/ with proper names)
+WhatsApp Image*.jpeg
